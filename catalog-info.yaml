@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: helloall
+  annotations:
+    github.com/project-slug: vinnie-jog-on/helloall
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
