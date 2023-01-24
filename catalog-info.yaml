@@ -4,7 +4,7 @@ metadata:
   name: helloall
   annotations:
     github.com/project-slug: vinnie-jog-on/helloall
-    jira/project-key: PROJECT-17221
+    jira/project-key: ENISDT
 spec:
   type: other
   lifecycle: unknown
