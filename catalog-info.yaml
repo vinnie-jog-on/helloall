@@ -5,6 +5,10 @@ metadata:
   annotations:
     github.com/project-slug: vinnie-jog-on/helloall
     jira/project-key: ENISDT
+  links:
+    - url: https://tracker.intive.com/jira/secure/RapidBoard.jspa?projectKey=ENISDT&rapidView=1681&view=planningm
+      title: backlog
+      icon: dashboard
 spec:
   type: other
   lifecycle: unknown
