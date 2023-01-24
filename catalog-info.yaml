@@ -6,7 +6,7 @@ metadata:
     github.com/project-slug: vinnie-jog-on/helloall
     jira/project-key: ENISDT
   links:
-    - url: https://tracker.intive.com/jira/secure/RapidBoard.jspa?projectKey=ENISDT&rapidView=1681&view=planningm
+    - url: https://tracker.intive.com/jira/secure/RapidBoard.jspa
       title: backlog
       icon: dashboard
 spec:
