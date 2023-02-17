@@ -1,0 +1,6 @@
+projectKey=vinnie-jog-on-helloall
+serverUrl=http://localhost:9001
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9001/dashboard?id=vinnie-jog-on-helloall
+ceTaskId=AYZhO2pRXacolus-oIID
+ceTaskUrl=http://localhost:9001/api/ce/task?id=AYZhO2pRXacolus-oIID
