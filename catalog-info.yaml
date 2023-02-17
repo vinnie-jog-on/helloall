@@ -6,6 +6,8 @@ metadata:
   annotations:
     github.com/project-slug: vinnie-jog-on/helloall
     jira/project-key: ENISDT
+    sonarqube.org/project-key: vinnie-jog-on/helloall
+
   links:
     - url: https://tracker.intive.com/jira/secure/RapidBoard.jspa
       title: backlog
