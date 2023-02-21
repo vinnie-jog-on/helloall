@@ -7,6 +7,7 @@ metadata:
     github.com/project-slug: vinnie-jog-on/helloall
     jira/project-key: ENISDT
     sonarqube.org/project-key: vinnie-jog-on-helloall
+    backstage.io/linguist: https://github.com/vinnie-jog-on/helloall
 
   links:
     - url: https://tracker.intive.com/jira/secure/RapidBoard.jspa
